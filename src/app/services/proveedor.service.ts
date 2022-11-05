@@ -3,7 +3,7 @@ import { HttpClient } from '@angular/common/http';
 import { Observable } from 'rxjs';
 import { Proveedor } from '../models/proveedor.model';
 
-const baseUrl = 'http://localhost:8080/api/proveedor';
+const baseUrl = 'https://basedatosexamen.herokuapp.com/api/proveedor';
 
 
 

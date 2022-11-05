@@ -3,7 +3,7 @@ import { HttpClient } from '@angular/common/http';
 import { Observable } from 'rxjs';
 import { Cliente } from '../models/cliente.model';
 
-const baseUrl = 'http://localhost:8080/api/cliente';
+const baseUrl = 'https://basedatosexamen.herokuapp.com/api/cliente';
 
 
 
